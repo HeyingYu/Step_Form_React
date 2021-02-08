@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Multi-Step Form built with React and Material-UI
+demo: https://react-step-form-eight.vercel.app/
 
 ## Available Scripts
 
